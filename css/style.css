@@ -11,8 +11,8 @@ body {
 }
 
 .dark-theme {
-  color: #cd5700;/*#f2f2f2;*/
-  background-color: #000033;/*#17161a;*/
+  color: #ffffff/*#cd5700;#f2f2f2;*/
+  background-color: #000000/*#000033;/*#17161a;*/
 }
 
 h1 {
